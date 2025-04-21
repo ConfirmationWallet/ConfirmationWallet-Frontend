@@ -1,0 +1,38 @@
+# Node dependencies
+node_modules/
+
+# Expo & Metro bundler cache
+.expo/
+.expo-shared/
+babel.config.js
+packager-info.json
+*.log
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+/dist
+/build
+/web-build/
+
+# iOS and Android builds
+ios/
+android/
+
+# EAS build artifacts
+*.tar.gz
+*.apk
+*.aab
+*.ipa
+*.app
+
+# TypeScript cache
+*.tsbuildinfo
